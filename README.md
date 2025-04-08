@@ -38,19 +38,25 @@
 **NexusFlo**  
 A well-being app built with Laravel and Vue.js to help users manage their lives and mental health effectively.
 > _Designed to create meaningful digital tools for mental wellness, while refining full-stack development with Laravel and Vue._
+>
 > [View Live](https://nexusflo.uk)
+>
 > [View on GitHub](https://github.com/dandyson/nexusflo)
 
 **HomeMovieHub**  
 A "Netflix for Home Movies" platform using Vue.js and Laravel, enabling users to stream home movies. Features include Google Maps API integration and a custom video player powered by Vue Plyr.
 > _A deep dive into building immersive user experiences with media-rich content, interactivity, and API integration._
+>
 > [View Live](https://homemoviehub.com)
+> 
 > [View on GitHub](https://github.com/dandyson/homemoviehub)
 
 **WayGenie**  
 An innovative React/Node.js full-stack application that leverages AI to generate personalized travel itineraries. The frontend is deployed as a static site on AWS S3, while the backend is hosted on Heroku.
 > _Exploring the power of AI in travel planning, while mastering deployment pipelines and cloud architecture._
-> [View Live]([https://nexusflo.uk](https://d1tl42qtzfxokv.cloudfront.net/))
+>
+> [View Live](https://d1tl42qtzfxokv.cloudfront.net/)
+>
 > [View on GitHub](https://github.com/dandyson/waygenie)
 
 
