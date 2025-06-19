@@ -17,19 +17,19 @@
 
 ### 🧠 Currently Learning
 
-- Deep diving into TypeScript and React  
+- Deep diving into TypeScript, React and Next.js
 - Exploring testing best practices and backend architecture with Express.js  
-- Building real-world experience through solo apps: **NexusFlo**, **HomeMovieHub**, **WayGenie** & **WaveWise**
+- Building real-world experience through solo apps: **NexusFlo**, **HomeMovieHub**, **WayGenie** & **TripSync**
 
 ---
 
 ### 🛠 Tech Stack
 
 **Main Tools**  
-`Laravel` · `Vue` · `Inertia.js` · `Tailwind CSS` · `MySQL` · `Docker`
+`Laravel` · `Vue` · `Inertia.js` · `Tailwind CSS` · `MySQL` · `Docker` · `AWS`
 
 **Currently Working With**  
-`React` · `TypeScript` · `Node.js` · `Express` · `Vite`  
+`React` · `TypeScript` · `Next.js` · `Node.js` · `Express` · `Vite`  
 
 ---
 
