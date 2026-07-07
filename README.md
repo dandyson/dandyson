@@ -1,35 +1,23 @@
 <h1 align="center">Hi, I'm Dan 👋</h1>
 <p align="center">
-  Full-Stack Developer | Laravel & Vue Specialist | Building in React & TypeScript
+  PHP/Laravel Engineer | Vue.js | Clean Code & Tested Systems
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- Professional musician turned software developer  
-- Experienced with Laravel, Vue, and Inertia.js  
-- Currently expanding into React, Node, and TypeScript  
-- Passionate about clean code, solo projects, and continuous learning  
-- Outside of tech: I surf, travel often, and live for rhythm and flow  
-
----
-
-### 🧠 Currently Learning
-
-- Deep diving into TypeScript, React and Next.js
-- Exploring testing best practices and backend architecture with Express.js  
-- Building real-world experience through solo apps: **NexusFlo**, **HomeMovieHub**, **WayGenie** & **TripSync**
+- PHP/Laravel backend engineer with 4 years' commercial experience
+- Experienced with Laravel, Vue.js, MySQL, PostgreSQL, Docker, and AWS
+- Passionate about clean code, thorough testing, and building things that last
+- Outside of tech: I'm a professional musician, aspiring filmmaker, and chronic traveller
 
 ---
 
 ### 🛠 Tech Stack
 
 **Main Tools**  
-`Laravel` · `Vue` · `Inertia.js` · `Tailwind CSS` · `MySQL` · `Docker` · `AWS`
-
-**Currently Working With**  
-`React` · `TypeScript` · `Next.js` · `Node.js` · `Express` · `Vite`  
+`Laravel` · `Vue` · `Tailwind CSS` · `MySQL` · `PostgreSQL` . `Docker` · `AWS`
 
 ---
 
@@ -52,22 +40,12 @@ A "Netflix for Home Movies" platform using Vue.js and Laravel, enabling users to
 > [View on GitHub](https://github.com/dandyson/homemoviehub)
 
 **WayGenie**  
-An innovative React/Node.js full-stack application that leverages AI to generate personalized travel itineraries. The frontend is deployed as a static site on AWS S3, while the backend is hosted on Heroku.
+An innovative React/Node.js full-stack application that leverages AI to generate personalized travel itineraries. The frontend is deployed on Cloudflare Pages, while the backend is hosted on Railway.
 > _Exploring the power of AI in travel planning, while mastering deployment pipelines and cloud architecture._
 >
-> [View Live](https://d1tl42qtzfxokv.cloudfront.net/)
+> [View Live](https://waygenie.pages.dev/)
 >
 > [View on GitHub](https://github.com/dandyson/waygenie)
-
-
----
-
-### 📈 Recent Activity
-
-<!-- START_SECTION:projects -->
-<!-- This section can be updated with a GitHub Action or manually -->
-Coming soon: Automatically updated list of recent repositories and contributions.
-<!-- END_SECTION:projects -->
 
 ---
 
